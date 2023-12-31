@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AeonTek.Charis.API.Logic", "AeonTek.Charis.API.Logic\AeonTek.Charis.API.Logic.csproj", "{4F0B1810-AC66-41B3-8286-E03557CB91C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AeonTek.Charis.API.Data", "AeonTek.Charis.API.Data\AeonTek.Charis.API.Data.csproj", "{D6F57127-08D9-46D7-890D-271ADB422912}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "aeontek.charis.ui", "AeonTek.Charis.UI\aeontek.charis.ui.esproj", "{F47D347E-71BD-4321-8C6E-3D22C6DECE66}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AeonTek.Charis.API", "AeonTek.Charis.API\AeonTek.Charis.API.csproj", "{156187BB-14CF-4CE5-AEE7-9F9275533413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F0B1810-AC66-41B3-8286-E03557CB91C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0B1810-AC66-41B3-8286-E03557CB91C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0B1810-AC66-41B3-8286-E03557CB91C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0B1810-AC66-41B3-8286-E03557CB91C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F57127-08D9-46D7-890D-271ADB422912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F57127-08D9-46D7-890D-271ADB422912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F57127-08D9-46D7-890D-271ADB422912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F57127-08D9-46D7-890D-271ADB422912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47D347E-71BD-4321-8C6E-3D22C6DECE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47D347E-71BD-4321-8C6E-3D22C6DECE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47D347E-71BD-4321-8C6E-3D22C6DECE66}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F47D347E-71BD-4321-8C6E-3D22C6DECE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47D347E-71BD-4321-8C6E-3D22C6DECE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47D347E-71BD-4321-8C6E-3D22C6DECE66}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{156187BB-14CF-4CE5-AEE7-9F9275533413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156187BB-14CF-4CE5-AEE7-9F9275533413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156187BB-14CF-4CE5-AEE7-9F9275533413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156187BB-14CF-4CE5-AEE7-9F9275533413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF9BAC53-B66A-4058-B99B-F3D51E6419AA}
+	EndGlobalSection
+EndGlobal
